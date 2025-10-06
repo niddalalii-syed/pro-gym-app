@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "781013558976",
+    "firebase_url": "https://progym-fb114-default-rtdb.firebaseio.com",
+    "project_id": "progym-fb114",
+    "storage_bucket": "progym-fb114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781013558976:android:cc3bb97f7f26ca77e1af25",
+        "android_client_info": {
+          "package_name": "com.example.pro_gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCta7SgJ9QD06hhdsjLBVJpkF3_EGTlaqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
