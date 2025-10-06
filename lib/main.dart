@@ -74,7 +74,7 @@ class MyApp extends StatelessWidget {
             ),
         ],
         child: MaterialApp(
-          title: 'Flutter Memo',
+          title: 'Flutter Nemo',
           theme: ThemeData(
             colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
             useMaterial3: true,
